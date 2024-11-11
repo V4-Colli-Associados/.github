@@ -18,7 +18,6 @@
 - [ ] Versão atualizada no código (se aplicável)
 
 
-
 ## Impacto Esperado (opcional)
 <!-- Descreva o impacto esperado com essa PR, caso seja relevante. -->
 
