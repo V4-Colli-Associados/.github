@@ -15,8 +15,7 @@
 - [ ] Código segue o estilo do projeto
 - [ ] Testado manualmente em ambiente de desenvolvimento
 - [ ] Documentação atualizada (se aplicável)
-- [ ] Versão atualizada no código (se aplicável)
-
+- [ ] Coloquei o label correto no Pr (Certifique-se de que a label apropriada foi atribuída, como fix, feature, enhancement, etc., para refletir a natureza da mudança.)
 
 ## Impacto Esperado (opcional)
 <!-- Descreva o impacto esperado com essa PR, caso seja relevante. -->
